@@ -1,0 +1,8 @@
+SERVER = 'localhost'
+PORT = '1433'
+USERNAME = 'sa'
+PASSWORD = 'PY4E02'
+DRIVER = '{ODBC Driver 17 for SQL SERVER}'
+DATABASE = 'MindX'
+
+API_KEY = 'Mindx123'
